@@ -1,9 +1,4 @@
-//
-//  MainPresenter.swift
-//  Intro-Lab
-//
-//  Created by Александр Головин on 03.02.2023.
-//
+
 
 import Foundation
 import CoreData
